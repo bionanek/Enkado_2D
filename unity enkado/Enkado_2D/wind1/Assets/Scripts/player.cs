@@ -245,5 +245,10 @@ public class player : MonoBehaviour
             if (curHealth < 5)
                 curHealth +=1;
         }
+        if(col.CompareTag("RedPotion"))
+        {
+            Destroy(col.gameObject);
+            curHealth = maxHealth;
+        }
     }
 }
