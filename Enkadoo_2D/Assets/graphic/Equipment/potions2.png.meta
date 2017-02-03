@@ -1,0 +1,1224 @@
+fileFormatVersion: 2
+guid: e36d5533c5562d7419a1d04eb0775ff5
+timeCreated: 1481797753
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: potions2_0
+    21300002: potions2_1
+    21300004: potions2_2
+    21300006: potions2_3
+    21300008: potions2_4
+    21300010: potions2_5
+    21300012: potions2_6
+    21300014: potions2_7
+    21300016: potions2_8
+    21300018: potions2_9
+    21300020: potions2_10
+    21300022: potions2_11
+    21300024: potions2_12
+    21300026: potions2_13
+    21300028: potions2_14
+    21300030: potions2_15
+    21300032: potions2_16
+    21300034: potions2_17
+    21300036: potions2_18
+    21300038: potions2_19
+    21300040: potions2_20
+    21300042: potions2_21
+    21300044: potions2_22
+    21300046: potions2_23
+    21300048: potions2_24
+    21300050: potions2_25
+    21300052: potions2_26
+    21300054: potions2_27
+    21300056: potions2_28
+    21300058: potions2_29
+    21300060: potions2_30
+    21300062: potions2_31
+    21300064: potions2_32
+    21300066: potions2_33
+    21300068: potions2_34
+    21300070: potions2_35
+    21300072: potions2_36
+    21300074: potions2_37
+    21300076: potions2_38
+    21300078: potions2_39
+    21300080: potions2_40
+    21300082: potions2_41
+    21300084: potions2_42
+    21300086: potions2_43
+    21300088: potions2_44
+    21300090: potions2_45
+    21300092: potions2_46
+    21300094: potions2_47
+    21300096: potions2_48
+    21300098: potions2_49
+    21300100: potions2_50
+    21300102: potions2_51
+    21300104: potions2_52
+    21300106: potions2_53
+    21300108: potions2_54
+    21300110: potions2_55
+    21300112: potions2_56
+    21300114: potions2_57
+    21300116: potions2_58
+    21300118: potions2_59
+    21300120: potions2_60
+    21300122: potions2_61
+    21300124: potions2_62
+    21300126: potions2_63
+    21300128: potions2_64
+    21300130: potions2_65
+    21300132: potions2_66
+    21300134: potions2_67
+    21300136: potions2_68
+    21300138: potions2_69
+    21300140: potions2_70
+    21300142: potions2_71
+    21300144: potions2_72
+    21300146: potions2_73
+    21300148: potions2_74
+    21300150: potions2_75
+    21300152: potions2_76
+    21300154: potions2_77
+    21300156: potions2_78
+    21300158: potions2_79
+    21300160: potions2_80
+    21300162: potions2_81
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: potions2_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 438
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 435
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 435
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 435
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 42
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 438
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_6
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 438
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_7
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 435
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_8
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 435
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_9
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 42
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 390
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 387
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 387
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 387
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 390
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 390
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_16
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 387
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 387
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 342
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 339
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 339
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 339
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 342
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_23
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 342
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_24
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 339
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_25
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 339
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 294
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_27
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 291
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_28
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 291
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 291
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_30
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 294
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_31
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 294
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_32
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 291
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 291
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_34
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 246
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_35
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 243
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 243
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_37
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 243
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_38
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 246
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_39
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 246
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_40
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 243
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_41
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 243
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 198
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 195
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 195
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_45
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 195
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 198
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_47
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 198
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_48
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 195
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_49
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 195
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 150
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_51
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 147
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 147
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_53
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 147
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_54
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 150
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_55
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 150
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_56
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 147
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_57
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 147
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_58
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 102
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_59
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 99
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 99
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_61
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 99
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_62
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 102
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_63
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 102
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_64
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 99
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_65
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 99
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_66
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 54
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_67
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 51
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_68
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_69
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 51
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_70
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 54
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_71
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 54
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_72
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 51
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_73
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 51
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_74
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_75
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_76
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_77
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 3
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_78
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 6
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_79
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 6
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_80
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 3
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: potions2_81
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
